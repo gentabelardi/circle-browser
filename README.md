@@ -1,10 +1,13 @@
 # Circle Browser
 
-Experiment with ElectronJS, ReactJS, Redux, and TailwindCSS
+Experiment with ElectronJS, ReactJS, Redux, and Tailwindcss
 Inspiration Design from Browser Safari Apple 
 
 ### Use 
 - WebView Electron for view website
+- React-redux
+- react-beautiful-dnd (Drag and Drop Tab)
+- headlessui (Component Tailwindcss)
 
 
 ## Example Screenshot
