@@ -3,6 +3,15 @@
 Experiment with ElectronJS, ReactJS, Redux, and TailwindCSS
 Inspiration Design from Browser Safari Apple 
 
+### Use 
+- WebView Electron for view website
+
+
+## Example Screenshot
+
+![Screenshot](https://user-images.githubusercontent.com/78941367/132131397-093777af-b2b7-4993-96df-8428d70f57ba.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
