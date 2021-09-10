@@ -15,6 +15,15 @@ Inspiration Design from Browser Safari Apple
 ![Screenshot](https://user-images.githubusercontent.com/78941367/132131397-093777af-b2b7-4993-96df-8428d70f57ba.png)
 
 
+## Tab Animation
+
+https://user-images.githubusercontent.com/78941367/132865494-3a22a3a9-6c59-4a55-9514-2b02002287e0.mp4
+
+### Disclaimer
+  
+ Because this is still a tab development stage there is only a click and drop tab feature, the feature for adding new tabs is still not available
+
+
 
 
 ### WARNING
